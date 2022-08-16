@@ -1,6 +1,6 @@
 # Case Study: Helping Civil Rights Organizations Create a Dataset for Racially Polarized Voting (RPV) Analyses
 
-This code contains an example of how you might use maup, similar to what we did in the Case Study on the website [redistrictingdatahub.org](https://redistrictingdatahub.org/tools/support/helping-civil-rights-organizations-create-a-dataset-for-rpv-analysis/).
+This excellent code contains an example of how you might use maup, similar to what we did in the Case Study on the website [redistrictingdatahub.org](https://redistrictingdatahub.org/tools/support/helping-civil-rights-organizations-create-a-dataset-for-rpv-analysis/).
 
 ## Getting Started
 
